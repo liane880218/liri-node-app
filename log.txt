@@ -1,0 +1,88 @@
+Usser command: concert-this
+ Response: Estadio Nacional, Estadio Nacional, 03/20/2019
+Usser command: concert-this
+ Response: Campo Argentino de Polo, Palermo, 03/23/2019
+Usser command: concert-this
+ Response: Estádio Major Antônio Couto Pereira, Curitiba, 03/30/2019
+Usser command: concert-this
+ Response: PNC Arena, Raleigh, 05/27/2019
+Usser command: concert-this
+ Response: Smoothie King Center, New Orleans, 05/23/2019
+Usser command: concert-this
+ Response: Bon Secours Wellness Arena, Greenville, 05/30/2019
+Usser command: concert-this
+ Response: Allen County War Memorial Coliseum, Fort Wayne, 06/03/2019
+Usser command: concert-this
+ Response: Rupp Arena, Lexington, 06/01/2019
+Usser command: concert-this
+ Response: Kohl Center, Madison, 06/06/2019
+Usser command: concert-this
+ Response: TaxSlayer Center, Moline, 06/11/2019
+Usser command: concert-this
+ Response: Lambeau Field, Green Bay, 06/08/2019
+Usser command: concert-this
+ Response: Globe Life Park in Arlington, Arlington, 06/14/2019
+Usser command: concert-this
+ Response: Petco Park, San Diego, 06/22/2019
+Usser command: concert-this
+ Response: Talking Stick Resort Arena, Phoenix, 06/26/2019
+Usser command: concert-this
+ Response: BC Place, Vancouver, 07/06/2019
+Usser command: concert-this
+ Response: T-Mobile Arena, Las Vegas, 06/29/2019
+Usser command: concert-this
+ Response: SAP Center At San Jose, San Jose, 07/10/2019
+Usser command: concert-this
+ Response: Dodger Stadium, Los Angeles, 07/13/2019
+User command: spotify-this-song
+ Response: The Beatles, Hey Jude - Remastered 2015, https://api.spotify.com/v1/tracks/0aym2LBJBk9DAYuHHutrIl, 1 (Remastered)
+User command: spotify-this-song
+ Response: The Beatles, Hey Jude, https://api.spotify.com/v1/tracks/1eT2CjXwFXNx6oY5ydvzKU, Love
+User command: spotify-this-song
+ Response: Wilson Pickett, Hey Jude, https://api.spotify.com/v1/tracks/1MMp1H2Kib2BCDtdL5nL63, Hey Jude
+User command: spotify-this-song
+ Response: Stephen Bennett, Hey Jude, https://api.spotify.com/v1/tracks/220cgqZrOmpWb4QGLrwmTR, Beatles Acoustic Guitar Solos
+User command: spotify-this-song
+ Response: The Beatles, Hey Jude - Remastered 2009, https://api.spotify.com/v1/tracks/3m7V717IKZqZLW5qUIOxdD, The Beatles 1967 - 1970 (Remastered)
+User command: movie-this
+ Response: Titanic, 1997, 7.8/10, 89%USA, English, Swedish, A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic., Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+User command: movie-this
+ Response: Titanic, 1997, 7.8/10, 89%USA, English, Swedish, A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic., Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+User command: concert-this
+ Response: Campo Argentino de Polo, Palermo, 03/23/2019
+User command: concert-this
+ Response: Estadio Nacional, Estadio Nacional, 03/20/2019
+User command: concert-this
+ Response: Estádio Major Antônio Couto Pereira, Curitiba, 03/30/2019
+User command: concert-this
+ Response: PNC Arena, Raleigh, 05/27/2019
+User command: concert-this
+ Response: Smoothie King Center, New Orleans, 05/23/2019
+User command: concert-this
+ Response: Allen County War Memorial Coliseum, Fort Wayne, 06/03/2019
+User command: concert-this
+ Response: Bon Secours Wellness Arena, Greenville, 05/30/2019
+User command: concert-this
+ Response: Kohl Center, Madison, 06/06/2019
+User command: concert-this
+ Response: Rupp Arena, Lexington, 06/01/2019
+User command: concert-this
+ Response: Lambeau Field, Green Bay, 06/08/2019
+User command: concert-this
+ Response: Globe Life Park in Arlington, Arlington, 06/14/2019
+User command: concert-this
+ Response: TaxSlayer Center, Moline, 06/11/2019
+User command: concert-this
+ Response: Petco Park, San Diego, 06/22/2019
+User command: concert-this
+ Response: Talking Stick Resort Arena, Phoenix, 06/26/2019
+User command: concert-this
+ Response: T-Mobile Arena, Las Vegas, 06/29/2019
+User command: concert-this
+ Response: BC Place, Vancouver, 07/06/2019
+User command: concert-this
+ Response: SAP Center At San Jose, San Jose, 07/10/2019
+User command: concert-this
+ Response: Dodger Stadium, Los Angeles, 07/13/2019
+User command: movie-this
+ Response: The Pianist, 2002, 8.5/10, 95%France, Poland, Germany, UK, USA, English, German, Russian, A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II., Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard
